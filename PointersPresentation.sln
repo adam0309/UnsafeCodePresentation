@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointersPresentation.Filters", "PointersPresentation\PointersPresentation.Filters.csproj", "{1BC6C563-F025-4896-B43F-FD137FF2234E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointerPresentation.Tests", "PointerPresentation.Tests\PointerPresentation.Tests.csproj", "{ECBDD826-12E8-4459-AE7C-AE9272671CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC6C563-F025-4896-B43F-FD137FF2234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC6C563-F025-4896-B43F-FD137FF2234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC6C563-F025-4896-B43F-FD137FF2234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC6C563-F025-4896-B43F-FD137FF2234E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBDD826-12E8-4459-AE7C-AE9272671CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBDD826-12E8-4459-AE7C-AE9272671CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBDD826-12E8-4459-AE7C-AE9272671CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBDD826-12E8-4459-AE7C-AE9272671CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
